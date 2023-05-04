@@ -1,0 +1,9 @@
+:host {
+  width: 100%;
+  outline: none;
+  border: none;
+
+  &::placeholder {
+    font-style: italic;
+  }
+}
